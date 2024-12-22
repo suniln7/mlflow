@@ -1,4 +1,5 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gdrive://1DJO395X6MEDAhDJmIBx8Ld3pWZ_cA8K2
+    url = s3://mlopsworkflow
+    gdrive_acknowledge_abuse = true
